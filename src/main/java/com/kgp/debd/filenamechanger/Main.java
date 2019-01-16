@@ -20,7 +20,7 @@ public class Main {
         // check argumants
         if (args.length < 2) {
             System.out.println("Please provide full path to a directory and type");
-            System.out.println("USAGE: java -jar FileNameChanger <path> <odd/even>");
+            System.out.println("USAGE: java -jar FileNameChanger-1.0 <path> <odd/even>");
             System.exit(1);
         }
 
